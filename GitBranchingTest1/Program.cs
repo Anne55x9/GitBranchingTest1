@@ -11,6 +11,7 @@ namespace GitBranchingTest1
         static void Main(string[] args)
         {
             Console.WriteLine($"Dette er en fest med branching fest");
+            Console.WriteLine($"Er i develop nu test!");
            
         }
 
