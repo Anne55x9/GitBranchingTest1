@@ -10,6 +10,7 @@ namespace GitBranchingTest1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"Dette er en fest med branching");
         }
     }
 }
